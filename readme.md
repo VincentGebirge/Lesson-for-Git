@@ -28,3 +28,9 @@
 ### Подробнее о синтаксисе языка Markdown от Microsoft:
 
 https://docs.microsoft.com/ru-ru/contribute/markdown-reference
+
+Чтобы выделять строки, отображающие код, можно использовать
+
+```sh
+git status
+```
